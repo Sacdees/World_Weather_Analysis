@@ -56,3 +56,8 @@ Visualize Travel Data
 
 
 When you get back to your desk, your first step is to write out a basic plan for how you'll write code that can do this fairly complex task.
+
+
+
+
+Lastly, Christopher, the only place where there's room for improvement is your travel itinerary map, because you did not create all four required DataFrames for each city! Then, you did not retrieve the corresponding coordinates that would help you to create a direction layer map. On top of all of that, you were unsuccessful with managing to upload it as PNG as well! Despite the slip-up in deliverable four, all of the boxes were ticked for this homework. 
